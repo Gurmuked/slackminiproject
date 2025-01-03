@@ -61,3 +61,49 @@ display: flex;
     width: 110px;
     height: 34px;
   }
+  main{
+    width: 70%;
+    padding: 0% 15%;
+    justify-content: center;
+    align-items: center;
+  }
+  .parajs{
+  padding-top: 20px;
+  font-size: 34px;
+  text-align: center;
+  }
+  .parajs span{
+    color: #741475;
+  }
+  .btn{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #4a154b;
+    border: none;
+    border-radius: 2px;
+    margin: 0px 10px;
+  }
+  .search-logo, .menu-logo{
+    height: 18px;
+    width: 20px;
+  }
+  .btn-cont{
+    display:flex ;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .get-btn, .find-btn{
+  text-align: center;
+  width: 250px;
+  margin-bottom: 10px;
+  padding: 20px 20px;
+  background-color: #4a154b;
+  color: white;
+  border-width: 1px;
+  border-radius: 4px;
+  font-size: 18px;
+  }
