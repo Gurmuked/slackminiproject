@@ -107,3 +107,62 @@ display: flex;
   border-radius: 4px;
   font-size: 18px;
   }
+  .btn2{
+   width: 450px;
+  }
+  .find-btn{
+    width: 300px;
+    margin-left:10px ;
+    background-color: white;
+    color: #4a154b;
+    font-weight: 550;
+  }
+  .slack-text{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .slack-text span{
+    font-weight: 550;
+  }
+  .logo-cont{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap:wrap;
+  margin: 20px 5px;
+  }
+  .logo-cont img{
+    padding: 10px 22px;
+  }
+  .logo-pic{
+    width:50px;
+     height: 40px;
+     margin: 10px;
+     padding: 10px;
+  }
+  .air{
+    width: 80px;
+  }
+  .uber{
+    height:5px;
+  }
+  .etsyl{
+    width: 60px;
+    height: 20px;
+    padding-right: 3px;
+    margin-left: 0px;
+  }
+  
+  .logo-pic{
+    height: 40px;
+  }
+  .para-section1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 24px;
+  }
