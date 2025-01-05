@@ -197,3 +197,59 @@ display: flex;
   width: 20px;
   height: 20px;
   }
+  .inner-section{
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    }
+    .para-section{
+      width: 35%;
+      align-items: center;
+      padding-left: 45px;
+    }
+    .video-section{
+      width: 50%;
+      text-align: right;
+      margin-left: 100px;
+    }
+    .video-section, img{
+      border-radius: 4px;
+    }
+    .project{
+      font-size: 14px;
+      padding-top: 40px;
+      padding-bottom: 20PX;
+      
+    }
+    .project-topic{
+    font-size: 28px;
+    padding: 15px 0px;
+    }
+    .project-para{
+    font-size: 20px;
+    padding: 10px;
+    }
+    .per-container{
+      display: flex;
+      align-items: center;
+      margin-top: 30px;
+      margin-bottom: 40px;
+    }
+    .percent{
+    font-size: 50px;
+    color: blueviolet;
+    font-weight: 600;
+    padding-right: 10px;
+    }
+    .per-word{
+      font-size: 20px;
+      padding-left:3px ;
+    }
+    .min{
+      font-size: 40px;
+    }
+    .minword{
+      padding-left: 0px;
+      margin-left: 3px;
+    }
