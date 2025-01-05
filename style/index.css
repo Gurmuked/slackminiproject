@@ -176,3 +176,24 @@ display: flex;
     text-align: center;
     font-size: 24px;
   }
+  .inspiration{
+    width: 70%;
+    margin: 0% 15%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .section{
+    margin:2%;
+    width: 96%;
+  }
+  .innercoll{
+    display: flex;
+    align-items: center;
+    padding-top: 8px;
+  }
+  .innercoll img{
+  margin: 8px 10px;
+  width: 20px;
+  height: 20px;
+  }
